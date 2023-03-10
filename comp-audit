@@ -1,1 +1,35 @@
+<html>
+<body>
+<table>
+  <tr>
+    <th>Gamified Apps</th>
+    <th>Engagement</th>
+    <th>Progress Tracking</th>
+    <th>User Experience</th>
+    <th>Overall Grade</th>
+  </tr>
+  <tr>
+    <td>Kahoot!!</td>
+    <td>I found kahoot very engaging, it's very visually appealing, has great music and amazing animation. It's a test of knowledge and speed to gain points and win first place. It keeps interest well (10/10)</td>
+    <td>Kahoot only tells the host of the game what the player got right. But does not add on to progress on an account, nor feedback. Despite this, the point system is decent (5/10)</td>
+    <td>Very user friendly, easy to navigate and a well-designed interface(8/10)</td>
+    <td>(23/30)</td>
+  </tr>
+  <tr>
+    <td>Coursera</td>
+    <td>Not very engaging, the video next to the screen format was confusing and hard to pay attention (4/10)</td>
+    <td>Great progress tracking, tells the user what they got wrong. Although, I did find it hard to find my coursera marks (7/10)</td>
+    <td>Not the best user experience at all, not user friendly. But, clear instructions and prompts, Terrible interface. (3/10)</td>
+    <td>(14/30)</td>
+  </tr>
+  <tr>
+  <td>ClassCraft</td>
+  <td>Very engaging, especially for DnD nerds such as myself.The RPG Element of Classcraft is an amazing concept and It's extremely visually appealing with great sounds. A good balance of a work challenge with reward (9/10)</td>
+  <td>Tracks all progress quite well, including the money you spend from getting in-game. Also converts all of your pregress in the sotry and work into grades for the Teacher to see(9/10)</td>
+  <td>App is extremely user-friendly, easy to navigate, very clear prompts and instructions with a well designed interface (10/10)</td>
+  <td>(28/30)</td>
+  </tr>
+</table>
 
+</body>
+</html>
